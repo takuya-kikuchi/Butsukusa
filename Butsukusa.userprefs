@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{64C77DFE-43B7-45D5-B2BF-0787CEC57BF3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Butsukusa/ViewController.cs">
+    <Files>
+      <File FileName="Butsukusa/Main.cs" Line="13" Column="2" />
+      <File FileName="Butsukusa/ViewController.cs" Line="30" Column="10" />
+      <File FileName="Butsukusa/AppDelegate.cs" Line="17" Column="9" />
+      <File FileName="Butsukusa/Info.plist" />
+      <File FileName="Butsukusa/ViewController.designer.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Butsukusa PreferredExecutionTarget="Test1" />
+</Properties>
